@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  I am at a complete loss
+permalink: /I-am-at-a-complete-loss
 date:   2019-01-08 15:43:00 -0500
 categories: blog webdev help
 ---
