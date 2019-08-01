@@ -5,7 +5,7 @@ date:   2019-01-08 15:43:00 -0500
 categories: blog webdev help
 ---
 
-##...with the website developers community, in general.
+## ...with the website developers community, in general. ##
 
 The worst feeling in the world is to search for help with your website and find out that help is at every turn but pricing is out of control.  I'm not even sure about customer service.  Everybody is trying to get into the "coding" business and I feel people that really need help are suffering or will just start a Wix site and forget about it.
 
