@@ -1,1 +1,11 @@
+# Site settings
+title: coming soon | kingdomdvlpr.com
+email: kingdomdvlpr@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  How you view websites and asking for help is about to change!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kingdomdvlpr.github.io" # the base hostname & protocol for your site
+#twitter_username: kingdomdvlpr
+#github_username:  kingdomdvlpr
+
 theme: jekyll-theme-minimal
